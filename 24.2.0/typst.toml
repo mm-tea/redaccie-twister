@@ -1,0 +1,11 @@
+[package]
+name = "redaccie-twister"
+version = "24.2.0"
+entrypoint = "lib.typ"
+authors = ["Matea Haverlík"]
+license = "Unlicense"
+description = "A template for writing TWISTER articles in typst."
+
+[template]
+path = "template"
+entrypoint = "article.typ"
