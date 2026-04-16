@@ -14,3 +14,6 @@ You can create a new article from the command line by running `typst init @local
 You can also change the `article` in the command to something else, to name the created folder with say, your article title. For example, `typst init @local/redaccie-twister "i don't like endings"` would create a folder named `i don't like endings`.
 
 Happy typsting!
+
+### Known problems
+- Author name appears higher than intended. This only affects the template, in the final TWISTER the title and author name will not overlap.
